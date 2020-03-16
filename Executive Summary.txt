@@ -1,0 +1,7 @@
+### Project 3 Executive Summary
+
+You have 2 similar subreddits and want to be able to predict which of the 2 any random submission comes from based solely on its title and selftext huh? Well, hire me then, because I just did that.
+
+Reddit is a mixed bag full of hits and misses when it comes to audience and content, but if you can filter your feed wisely it truly is a treasure trove. Natural Language Processing is an intuitive way to analyze the bountiful text contained within Reddit. You have many subreddits that are quite alike in purpose and content. It'd save you a lot of time and energy if you could automate a process that classifies which subreddit out of the similar subreddits any random post came from. I specifically used NLP to do that on two popular subreddits whose purposes are to facilitate polite discussion about politics using empirical facts and neutrality. Political Discussion and Neutral Politics were my targets and I successfully built a powerful model to predict which subreddit a random submission came from solely based on its title and selftext with a 95+% accuracy rate.
+
+I love working with smart companies with extensive datasets and text that need analyzing. If you're ready to increase your profits, effectiveness and efficiency, I'm ready to take you there. This project shows what I am capable of. Hit me up for your next NLP/Data Science project my future client!
